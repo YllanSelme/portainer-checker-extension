@@ -30,4 +30,4 @@ Then build with
 npm run build
 ```
 
-You can now add the dist folder in [chrome](chrome://extensions/)
+You can now add the dist folder in chrome://extensions/
